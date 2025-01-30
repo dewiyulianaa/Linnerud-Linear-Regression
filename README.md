@@ -11,7 +11,7 @@ Evaluation: Model performance is evaluated using metrics such as Mean Absolute E
 1. Python 
 2. Google Collabs
 ## Libraries:
-1.pandas
-2.scikit-learn
-3.matplotlib
-4.seaborn
+1. pandas
+2. scikit-learn
+3. matplotlib
+4. seaborn
